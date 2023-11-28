@@ -111,6 +111,17 @@ label {
     font-family: 'Inter', sans-serif;
 }
 
+.menu-item-inicio {
+    text-decoration: none;
+    color: red;
+    padding: 10px 20px;
+    transition: 0.2s;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+}
+
 .menu-item:hover {
     color: red;
     font-size: 20px;
